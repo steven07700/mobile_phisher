@@ -1,12 +1,15 @@
-
-███╗   ███╗ ██████╗ ██████╗ ██╗██╗     ███████╗        ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██████╗ 
+<div id="maincontent">
+<div id="outputFigDisplay" class="fig-ansi">
+<pre id="taag_output_text" class="fig-ansi" contenteditable="true">███╗   ███╗ ██████╗ ██████╗ ██╗██╗     ███████╗        ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██████╗ 
 ████╗ ████║██╔═══██╗██╔══██╗██║██║     ██╔════╝        ██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██╔══██╗
 ██╔████╔██║██║   ██║██████╔╝██║██║     █████╗          ██████╔╝███████║██║███████╗███████║█████╗  ██████╔╝
 ██║╚██╔╝██║██║   ██║██╔══██╗██║██║     ██╔══╝          ██╔═══╝ ██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔══██╗
 ██║ ╚═╝ ██║╚██████╔╝██████╔╝██║███████╗███████╗███████╗██║     ██║  ██║██║███████║██║  ██║███████╗██║  ██║
 ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚══════╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-                                                                                                          
-
+                                                                                                          </pre>
+<div>&nbsp;</div>
+</div>
+</div>
 <h1 align="center">Mobile_Phisher</h1> <p align="center">Bypass Hosting Website's Phishing Page Detectors</p>
 Mobile_phisher allows you to host mobile Phishing Pages on 000webhost.com without Getting your Account deleted
 # Why This New Tool?
