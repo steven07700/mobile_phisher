@@ -29,11 +29,15 @@ https://yoursubdomain.000webhostapp.com/yourfolder/index.html
 # ScreenShots
 <h1 align="center">Website Preview</h1>
 
-![alt text](http://pwnedbyme.000webhostapp.com/preview.jpg)
+<p align="center">
+  <img src="http://pwnedbyme.000webhostapp.com/H/preview.jpg">
+</p>
 
 <h1 align="center">Email Preview</h1>
 
-![alt text](http://pwnedbyme.000webhostapp.com/preview1.jpg)
+<p align="center">
+  <img src="http://pwnedbyme.000webhostapp.com/H/preview1.jpg">
+</p>
 
 
 
