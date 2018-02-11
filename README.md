@@ -38,7 +38,18 @@ The email that you add to line 14 is the email address that you will get your cr
 
 https://yoursubdomain.000webhostapp.com/yourfolder/index.html
 
-# ScreenShots
+<div id="maincontent">
+<div id="outputFigDisplay" class="fig-ansi">
+<pre id="taag_output_text" class="fig-ansi" contenteditable="true">███████╗ ██████╗██████╗ ███████╗███████╗███╗   ██╗███████╗██╗  ██╗ ██████╗ ████████╗███████╗
+██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║██╔════╝██║  ██║██╔═══██╗╚══██╔══╝██╔════╝
+███████╗██║     ██████╔╝█████╗  █████╗  ██╔██╗ ██║███████╗███████║██║   ██║   ██║   ███████╗
+╚════██║██║     ██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██╔══██║██║   ██║   ██║   ╚════██║
+███████║╚██████╗██║  ██║███████╗███████╗██║ ╚████║███████║██║  ██║╚██████╔╝   ██║   ███████║
+╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+                                                                                            </pre>
+<div>&nbsp;</div>
+</div>
+</div>
 <h1 align="center">**********Website Preview**********</h1>
 
 <p align="center">
