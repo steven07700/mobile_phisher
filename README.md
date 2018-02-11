@@ -27,13 +27,13 @@ The email that you add to line 14 is the email address that you will get your cr
 https://yoursubdomain.000webhostapp.com/yourfolder/index.html
 
 # ScreenShots
-<h1 align="center">Website Preview</h1>
+<h1 align="center">**********Website Preview**********</h1>
 
 <p align="center">
   <img src="http://pwnedbyme.000webhostapp.com/preview.jpg">
 </p>
 
-<h1 align="center">Email Preview</h1>
+<h1 align="center">**********Email Preview**********</h1>
 
 <p align="center">
   <img src="http://pwnedbyme.000webhostapp.com/preview1.jpg">
