@@ -56,7 +56,18 @@ https://yoursubdomain.000webhostapp.com/yourfolder/index.html
 
 
 
-## DISCLAIMER
+<div id="maincontent">
+<div id="outputFigDisplay" class="fig-ansi">
+<pre id="taag_output_text" class="fig-ansi" contenteditable="true">██████╗ ██╗███████╗ ██████╗██╗      █████╗ ██╗███╗   ███╗███████╗██████╗ 
+██╔══██╗██║██╔════╝██╔════╝██║     ██╔══██╗██║████╗ ████║██╔════╝██╔══██╗
+██║  ██║██║███████╗██║     ██║     ███████║██║██╔████╔██║█████╗  ██████╔╝
+██║  ██║██║╚════██║██║     ██║     ██╔══██║██║██║╚██╔╝██║██╔══╝  ██╔══██╗
+██████╔╝██║███████║╚██████╗███████╗██║  ██║██║██║ ╚═╝ ██║███████╗██║  ██║
+╚═════╝ ╚═╝╚══════╝ ╚═════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+                                                                         </pre>
+<div>&nbsp;</div>
+</div>
+</div>
 <p align="center">
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
