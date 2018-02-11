@@ -10,7 +10,7 @@
 <div>&nbsp;</div>
 </div>
 </div>
-<h1 align="center">Mobile_Phisher</h1> <p align="center">Bypass Hosting Website's Phishing Page Detectors</p>
+<h1 align="center">Mobile_Phisher</h1> <p align="center">Get Credentials on Your Email instead of Getting Blocked by Free Hosting Websites</p>
 Mobile_phisher allows you to host mobile Phishing Pages on 000webhost.com without Getting your Account deleted
 
 <div id="maincontent">
@@ -26,7 +26,7 @@ Mobile_phisher allows you to host mobile Phishing Pages on 000webhost.com withou
 </div>
 </div>
 
-000webhost.com Blocks Those Guys Who Uploads a Nice looking index.html file that calls a stupid looking php file which saves a text file in the website, and that text file contains all passwords that were captured by your nice looking index.html
+000webhost.com Blocks Those Guys Who Uploads a Nice looking index.html file that calls a stupid looking php file which saves a text file in the website, and that text file contains all passwords that were captured by your nice looking index.html, But This On The Other Hand Does Something Else. it Sends Captured Passwords to Attacker's Email.
 
 # How Does This Saves Us From Getting Blocked?
 In this case we upload a nice looking index.html and a stupid looking php, But the Diffrence is that this php does not saves the Credentials in a text file but instead sends them to the attacker via email.
